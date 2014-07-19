@@ -34,4 +34,4 @@ pip install <MODULENAME>
 
 #Download:
 
-http://62.210.72.110/CrackDealer/CrackDealer.py
+https://github.com/CrackEngine/CrackDealer-Python/releases/tag/0.1a
